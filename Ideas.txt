@@ -1,0 +1,27 @@
+MISC
+
+Voice clips when boss hp is low
+Music change based on hp
+Music change on main menu based on save point
+
+
+
+QUESTLINE
+
+Two quests: Collect allies
+			Gather materials for anti-secret weapon
+
+
+			
+MECHANICS
+
+Time reversal?
+
+
+CODING
+
+Make sure you avoid the potential overflow for rotation
+
+
+OTHER GAME
+Limited Number of Moves
